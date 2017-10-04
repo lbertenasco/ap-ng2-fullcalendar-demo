@@ -1,5 +1,7 @@
 # ApNg2FullcalendarDemo
 
+Demo project for [ap-ng2-fullcalendar](https://github.com/lbertenasco/ap-ng2-fullcalendar)
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.4.4.
 
 ## Development server
