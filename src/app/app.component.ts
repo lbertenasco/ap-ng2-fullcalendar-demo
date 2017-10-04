@@ -72,7 +72,7 @@ export class AppComponent {
       ]
     };
 
-    onCalendarInit() {
+    onCalendarInit(initialized: boolean) {
       console.log('Calendar initialized');
     }
 }
